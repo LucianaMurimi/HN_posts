@@ -6,4 +6,4 @@ This project seeks to illustrate how to work with datasets containing time with 
 - Do posts created at a certain times receive more comments on average?
 
 ### Dataset
-The dataset is obtained from https://www.kaggle.com/hacker-news/hacker-news-posts.
+The dataset is obtained from https://www.kaggle.com/hacker-news/hacker-news-posts and the analysis is as illustrated in `HN_posts` notebook in this repository.
